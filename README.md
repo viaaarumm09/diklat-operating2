@@ -6,3 +6,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar hadir diklat hari ini:
 * Nunik Corvia Arum, 26050121130052
+* Paula Refina, 26050122130052
